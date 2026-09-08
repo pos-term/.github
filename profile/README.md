@@ -1,6 +1,6 @@
 # Система приёма и надёжной обработки платёжных транзакций с эмуляцией POS-терминала
 
-> **Язык / Language:** Русский | [English](i18n/README_EN.md)
+> **Язык / Language:** Русский | [English](https://github.com/pos-term/.github/blob/main/i18n/README_EN.md)
 
 ### 1) Участники:
 - **Бакин Владислав Артемович**, АСУ-23-1б — [@Meidorislav](https://github.com/Meidorislav)
