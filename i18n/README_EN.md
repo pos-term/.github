@@ -5,6 +5,7 @@
 ### 1) Participants:
 - **Vladislav A. Bakin**, ASU-23-1b — [@Meidorislav](https://github.com/Meidorislav)
 - **Angelina M. Umarova**, ASU-23-1b — [@gelya305](https://github.com/gelya305)
+- **Timur A. Diyarov**, ASU-23-1б — [@gtimur-d-a](https://github.com/timur-d-a)
 
 ### 2) Project Topic:
 **System for receiving and reliably processing payment transactions with POS terminal emulation**
